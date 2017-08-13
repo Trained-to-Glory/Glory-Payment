@@ -1,6 +1,0 @@
-framework module Pods_Glory_Payments {
-  umbrella header "Pods-Glory-Payments-umbrella.h"
-
-  export *
-  module * { export * }
-}
